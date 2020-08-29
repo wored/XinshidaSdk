@@ -1,0 +1,19 @@
+{
+  "name": "wored/xinshida-sdk",
+  "description": "欣士达SDK",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "qiliu",
+      "email": "qiliuf@gmail.com"
+    }
+  ],
+  "require": {
+    "hanson/foundation-sdk": "3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Wored\\XinshidaSdk\\": "src"
+    }
+  }
+}
